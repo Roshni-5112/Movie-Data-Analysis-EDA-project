@@ -20,7 +20,7 @@ The analysis of the last five years revealed the following trends in the most po
 
 2015: Western
 
-3. Factors Affecting Revenue
+2. Factors Affecting Revenue
 Contrary to common belief, budget and vote scores do not directly affect revenue.
 The primary factor influencing revenue is popularity, as observed in the analysis and visualizations.
 
