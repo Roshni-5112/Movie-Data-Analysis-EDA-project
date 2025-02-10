@@ -9,9 +9,11 @@ What factors affect movie revenue? Specifically, does a higher budget lead to hi
 Findings
 1. Most Popular Genres Over the Years
 The analysis of the last five years revealed the following trends in the most popular movie genres:
+
 2011: Adventure
    
 2012: Fantasy
+
 2013: Science Fiction
 
 2014: Adventure 
